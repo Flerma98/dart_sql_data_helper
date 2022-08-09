@@ -1,6 +1,6 @@
-### Usage Example
+## Usage Example
 
-Create a field
+### Create a field
 
 ```dart
 
@@ -8,7 +8,7 @@ SqlColumnModel idField = SqlColumnModel("field_name",
     type: SqlDataType.integer, primaryKey: true, autoIncrement: true);
 ```
 
-Create a foreign key
+### Create a foreign key
 
 ```dart
 
@@ -20,7 +20,7 @@ SqlForeignKeyModel fkField = SqlForeignKeyModel(
     onDeleteRule: SqlForeignKeyRules.cascade);
 ```
 
-Example of how to organize a table
+### Example of how to organize a table
 
 ```dart
 abstract class SqlTableRestaurant {
@@ -38,7 +38,7 @@ abstract class SqlTableRestaurant {
 }
 ```
 
-With foreign key
+### With foreign key
 ```dart
 abstract class SqlTableFood {
   static const String tableName = "foods";
