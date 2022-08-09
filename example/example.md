@@ -1,26 +1,3 @@
-# sql_data_helper
-
-[![pub package](https://img.shields.io/pub/v/sql_data_helper.svg)](https://pub.dev/packages/sql_data_helper)
-
-A Dart package to organize our database data.
-
-## Getting Started
-
-### Installing
-
-In your Flutter project, add the package to your dependencies
-
-`flutter pub add sql_data_helper`
-
-or
-
-```yml
-dependencies:
-  ...
-  sql_data_helper: ^1.0.1
-  ...
-```
-
 ### Usage Example
 
 Create a field
