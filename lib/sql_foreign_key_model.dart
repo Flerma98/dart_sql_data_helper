@@ -1,4 +1,5 @@
 library sql_data_helper;
+
 import 'package:sql_data_helper/enums/sql_foreign_key_rules.dart';
 
 class SqlForeignKeyModel {

@@ -1,15 +1,20 @@
+## 1.0.4
+### Updated
+- Where data implemented
+- OrderBy implemented
+
 ## 1.0.3
 ### Updated
--   Example updated
+- Example updated
 
 ## 1.0.2
 ### Updated
--   Readme updated
+- Readme updated
 
 ## 1.0.1
 ### Updated
--   Documentation updated
+- Documentation updated
 
 ## 1.0.0
 ### Fixed
--   Initial release for the SqlDataHelper
+- Initial release for the SqlDataHelper
