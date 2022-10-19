@@ -1,3 +1,8 @@
+## 1.0.5
+### Updated
+- All data imported to main
+- Where with parameters
+
 ## 1.0.4
 ### Updated
 - Where data implemented
