@@ -1,4 +1,4 @@
-part of 'package:sql_data_helper/main.dart';
+import 'package:sql_data_helper/dart_sql_data_helper.dart';
 
 class OrderBy {
   final String columnName;

@@ -17,7 +17,7 @@ or
 ```yml
 dependencies:
   ...
-  sql_data_helper: ^1.0.3
+  sql_data_helper: #last_version
   ...
 ```
 
