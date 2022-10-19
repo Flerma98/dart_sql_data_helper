@@ -1,10 +1,12 @@
-import 'package:sql_data_helper/enums/sql_where_union.dart';
+part of 'package:sql_data_helper/main.dart';
 
 class SqlWhere {
   final List<String> clauses;
+  final List<dynamic> clausesValues;
   final WhereUnion whereUnion;
 
-  SqlWhere(this.clauses, {this.whereUnion = WhereUnion.and});
+  SqlWhere(this.clauses,
+      {required this.clausesValues, this.whereUnion = WhereUnion.and});
 
   String get getClauses {
     for (var i = 0; i < clauses.length; i++) {

@@ -1,4 +1,4 @@
-library sql_data_helper;
+part of 'package:sql_data_helper/main.dart';
 
 class SqlMigrationModel {
   final int version;

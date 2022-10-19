@@ -1,6 +1,4 @@
-library sql_data_helper;
-
-import 'package:sql_data_helper/enums/sql_where_order.dart';
+part of 'package:sql_data_helper/main.dart';
 
 class OrderBy {
   final String columnName;
