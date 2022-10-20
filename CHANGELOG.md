@@ -1,3 +1,7 @@
+## 1.0.7
+### Updated
+- Flutter formatted
+
 ## 1.0.6
 ### Updated
 - Imports changed

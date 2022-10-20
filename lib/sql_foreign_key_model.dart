@@ -1,4 +1,4 @@
-import 'package:sql_data_helper/dart_sql_data_helper.dart';
+import 'package:sql_data_helper/enums/sql_foreign_key_rules.dart';
 
 class SqlForeignKeyModel {
   final String columnForeignKey;
