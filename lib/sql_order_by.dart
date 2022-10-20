@@ -6,7 +6,7 @@ class OrderBy {
 
   OrderBy(this.columnName, {required this.order});
 
-  String get getClauses {
-    return "ORDER BY $columnName ${order.index}";
+  String getClauses({final bool withText = false}) {
+    return "${(withText) ? "ORDER BY" : ""} $columnName ${order.name}";
   }
 }

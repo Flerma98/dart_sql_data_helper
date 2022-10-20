@@ -1,3 +1,7 @@
+## 1.0.8
+### Updated
+- OrderBy changed
+
 ## 1.0.7
 ### Updated
 - Flutter formatted
