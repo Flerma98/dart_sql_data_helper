@@ -1,3 +1,7 @@
+## 1.0.6
+### Updated
+- Imports changed
+
 ## 1.0.5
 ### Updated
 - All data imported to main
