@@ -1,3 +1,7 @@
+## 1.0.9
+### Updated
+- Where clauses changed
+
 ## 1.0.8
 ### Updated
 - OrderBy changed
