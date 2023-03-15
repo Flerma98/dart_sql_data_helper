@@ -1,3 +1,7 @@
+## 1.1.0
+### Updated
+- DATE and DATETIME data type was added
+
 ## 1.0.9
 ### Updated
 - Where clauses changed
