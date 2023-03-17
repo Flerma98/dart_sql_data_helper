@@ -1,3 +1,7 @@
+## 1.1.1
+### Updated
+- WHERE ignore if is null
+
 ## 1.1.0
 ### Updated
 - DATE and DATETIME data type was added

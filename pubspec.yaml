@@ -1,9 +1,9 @@
 name: sql_data_helper
 description: A dart package to organize our sql data and make tables, querys more efficiently
-version: 1.1.0
+version: 1.1.1
 homepage: https://github.com/Flerma98
 repository: https://github.com/Flerma98/dart_sql_data_helper
 issue_tracker: https://github.com/Flerma98/dart_sql_data_helper/issues
 
 environment:
-  sdk: ">=2.14.0 <3.0.0"
+  sdk: ">=2.15.0 <3.0.0"
