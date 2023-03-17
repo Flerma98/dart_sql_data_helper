@@ -6,4 +6,4 @@ repository: https://github.com/Flerma98/dart_sql_data_helper
 issue_tracker: https://github.com/Flerma98/dart_sql_data_helper/issues
 
 environment:
-  sdk: ">=2.15.0 <3.0.0"
+  sdk: ">=2.15.0 <4.0.0"
