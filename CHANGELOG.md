@@ -1,3 +1,7 @@
+## 1.1.2
+### Updated
+- DEFAULT value has been fixed
+
 ## 1.1.1
 ### Updated
 - WHERE ignore if is null
