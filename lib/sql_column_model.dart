@@ -24,8 +24,13 @@ class SqlColumnModel {
         if (autoIncrement) "AUTOINCREMENT",
         if (unique) "UNIQUE",
         if (notNull) "NOT NULL",
-        if (!notNull) "DEFAULT $getCorrectDefaultValue"
+        if (canPutDefaultValue) "DEFAULT $getCorrectDefaultValue"
       ].join(" ");
+
+  bool get canPutDefaultValue {
+    if (!notNull) return true;
+    return notNull && defaultValue != null;
+  }
 
   String get getCorrectDefaultValue {
     if (defaultValue == null) return "NULL";

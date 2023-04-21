@@ -1,3 +1,7 @@
+## 1.1.3
+### Updated
+- DEFAULT value has been updated
+
 ## 1.1.2
 ### Updated
 - DEFAULT value has been fixed
